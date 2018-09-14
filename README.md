@@ -1,2 +1,2 @@
 # Python_Progs
-Amazing basic python projects...!
+Small games with pygame...!
